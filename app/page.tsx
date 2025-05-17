@@ -13,7 +13,7 @@ export default function LandingPage() {
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center gap-4">
             <Link href="/" className="text-2xl font-bold">
-              متجري
+              معتز للتسوق
             </Link>
             <nav className="hidden md:flex gap-6">
               <Link href="#" className="text-sm font-medium hover:text-primary">
@@ -367,7 +367,7 @@ export default function LandingPage() {
         <div className="container py-8 md:py-12">
           <div className="grid gap-8 sm:grid-cols-2 md:grid-cols-4">
             <div>
-              <h3 className="mb-4 text-lg font-medium">متجري</h3>
+              <h3 className="mb-4 text-lg font-medium">              معتز للتسوق</h3>
               <p className="text-sm text-muted-foreground">
                 متجرك الإلكتروني الأول للتسوق بثقة وأمان مع تشكيلة واسعة من المنتجات عالية الجودة.
               </p>
@@ -479,7 +479,7 @@ export default function LandingPage() {
           <div className="mt-8 border-t pt-8">
             <div className="flex flex-col-reverse gap-4 sm:flex-row sm:items-center sm:justify-between">
               <p className="text-sm text-muted-foreground">
-                &copy; {new Date().getFullYear()} متجري. جميع الحقوق محفوظة.
+                &copy; {new Date().getFullYear()}               معتز للتسوق. جميع الحقوق محفوظة.
               </p>
               <div className="flex items-center gap-4">
                 <img src="/placeholder.svg?height=30&width=50&text=Visa" alt="Visa" className="h-8" />
