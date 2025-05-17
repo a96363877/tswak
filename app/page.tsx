@@ -84,7 +84,7 @@ export default function LandingPage() {
               </div>
               <div className="relative h-[300px] md:h-[400px] lg:h-[500px] rounded-lg overflow-hidden">
                 <Image
-                  src="/portfolio-image.png"
+                  src="/banner-right-image.png"
                   alt="صورة العرض الرئيسي"
                   fill
                   className="object-cover"
